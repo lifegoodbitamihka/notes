@@ -35,3 +35,9 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 
 # 2023-11-25
 - "Keep it simple, stupid!"
+
+# 2023-11-26
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques. This means constantly reading, researching, and practicing new skills.
+
+To be successful in the world of programming, you must also be able to collaborate effectively with others. Learning how to communicate, share ideas, give and receive feedback, as well as work in teams will greatly improve your overall skills as a programmer. Remember that everyone was once a beginner, so don't be afraid to ask questions and seek help when needed. 
+ - 来自NLP
