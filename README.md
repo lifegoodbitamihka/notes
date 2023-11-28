@@ -46,3 +46,6 @@ To be successful in the world of programming, you must also be able to collabora
 - Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you will become a more valuable asset to your team or company, allowing you to contribute more effectively to projects and solve problems more efficiently.
 
 Another important aspect of programming wise is communication. As a programmer, it is essential to work closely with other team members, such as designers, product managers, or testers. Effective communication helps to ensure that everyone is on the same page and that the project stays on track. Learn to clearly express your ideas and thoughts, both orally and in writing, to avoid misunderstandings and conflicts. Additionally, be open to feedback and suggestions from others, which can help you improve your work and develop your skills further.
+
+# 2023-11-28
+- "Keep it simple, stupid!"
