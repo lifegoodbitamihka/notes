@@ -49,3 +49,6 @@ Another important aspect of programming wise is communication. As a programmer, 
 
 # 2023-11-28
 - "Keep it simple, stupid!"
+
+# 2023-11-29
+- "Keep it simple, stupid!"
