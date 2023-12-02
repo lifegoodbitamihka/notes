@@ -64,3 +64,8 @@ Another important aspect of programming wise is communication. As a programmer, 
 3. Network with other developers: Connect with fellow programmers on social media, online forums,and at local meetups. Sharing knowledge and experiences with others can helpyou learnnew techniques and find solutions to problems you may encounter.  
 4. Stay open-minded: As you progress in your programming career, you might encounter new programminglanguages or frameworks. Be open to trying new things and learning about different technologies, as this can broaden your knowledgeand increase your job opportunities.   
 5. Don't be afraid to ask for help: When you run into a problem or don' t understand a concept, don ' t beafraid to reach out to others for assistance. Programming can be a challenging field, but asking forhelp is an essential part of learningand growing as a developer.
+
+# 2023-12-02
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to complex, hard-to-maintain code. It's better to write clear and simple code first, then optimize only where necessary after profiling and identifying performance bottlenecks.
