@@ -92,3 +92,9 @@ This quote reminds us that while optimizing code for efficiency is important, it
 
 # 2023-12-07
 - "Keep it simple, stupid!"
+
+# 2023-12-08
+- Today's programming wisdom is to be a lifelong learner. As technology continues to evolve at an unprecedented rate, it is essential to stay up-to-date with the latest developments and techniques. This means constantly reading blogs, articles, and research papers, attending conferences, workshops, online courses, etc. to gain a deeper understanding of the field.
+
+In addition to staying up to date with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Collaboration is key in the world of programming, so being capable of working with a team is vital. 
+ - 来自NLP
