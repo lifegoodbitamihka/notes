@@ -98,3 +98,9 @@ This quote reminds us that while optimizing code for efficiency is important, it
 
 In addition to staying up to date with technological advancements, being a good programmer also means being able to work well with others. That means communicating effectively, both verbally and in writing, as well as being willing to listen and learn from others' experiences and knowledge. Collaboration is key in the world of programming, so being capable of working with a team is vital. 
  - 来自NLP
+
+# 2023-12-09
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means understanding the principles of software development, such as agile methodology, version control, testing, debugging, performance optimization, etc.
+
+To be an effective programmer, it is essential to have a deep understanding of the problem you are trying to solve and the tools you use to do so. You should be able to express your ideas clearly, both verbally and in writing, so that others can understand and contribute to your project. Collaboration is a crucial aspect of programming, as it allows you to learn from others and share your knowledge with them. 
+ - 来自NLP
