@@ -104,3 +104,6 @@ In addition to staying up to date with technological advancements, being a good 
 
 To be an effective programmer, it is essential to have a deep understanding of the problem you are trying to solve and the tools you use to do so. You should be able to express your ideas clearly, both verbally and in writing, so that others can understand and contribute to your project. Collaboration is a crucial aspect of programming, as it allows you to learn from others and share your knowledge with them. 
  - 来自NLP
+
+# 2023-12-10
+- Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means that instead of trying to anticipate all possible future requirements and building in flexibility from the start, it's often better to write simple, straightforward code that can be easily replaced or modified when those requirements inevitably change. This approach can save time and reduce complexity, making it easier to maintain and evolve your codebase over time.
