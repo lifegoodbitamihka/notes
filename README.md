@@ -132,3 +132,10 @@ Next, use a scheduling tool or plan to allocate time to each task. Allocate time
 1. Learn new programming Languages: It' is always helpful to learn new languages, as it expands your skill set and makes you more versatile. Some popular programming langauges to consider learning include Python, JavaScript, Ruby, and Swift.
 2. Stay updated with technology: Keep an eye on new technology trends, tools, libraries, frameworks, etc., to see what' new developments are happening in your field. This will help keep you informed and prepared for any changes that may come your way. 
 3. Practice, practice, Practice: Programming is a skill that requires constant practice to master. Make it a habit to code every day, even if it’s just for a short time. By practicing regularly, you'll improve your problem-solving abilities and become a more efficient programmer.
+
+# 2023-12-17
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, there will always be multiple things to do. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
+ -
+Next, planning ahead is crucial. Before starting a new project or a difficult task, take some time to think about how you will approach it. Break it down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure that your project stays on track and that nothing gets overlooked. It will also help to minimize the stress associated with being overwhelmed by the amount of work that needs to get done.
