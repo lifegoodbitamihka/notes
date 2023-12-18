@@ -139,3 +139,6 @@ Next, use a scheduling tool or plan to allocate time to each task. Allocate time
 First, prioritize your tasks. When you're working on a project, there will always be multiple things to do. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
  -
 Next, planning ahead is crucial. Before starting a new project or a difficult task, take some time to think about how you will approach it. Break it down into smaller, manageable steps, then allocate time for each step. Planning ahead will ensure that your project stays on track and that nothing gets overlooked. It will also help to minimize the stress associated with being overwhelmed by the amount of work that needs to get done.
+
+# 2023-12-18
+- "Keep it simple, stupid!"
