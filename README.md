@@ -171,3 +171,10 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 
 # 2024-01-06
 - "Keep it simple, stupid!"
+
+# 2024-01-07
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge base. This involves staying up-to-date with new technologies, programming languages, and best practices. By doing so, you will be better equipped to solve complex problems and adapt to the ever-changing world of technology.
+
+To become a successful programmer, it is essential to develop strong problem-solving skills. Learn to break down complex issues into smaller, manageable tasks and use logical thinking to identify solutions. Practice coding challenges and projects to improve your problem solving abilities and apply them to real-world scenarios. 
+ - 了解新技术、编程语言和最佳实践，成为终身学习者。
+-培养强大的问题解决能力，学会将复杂问题分解为更小、可管理的任务，并运用逻辑思考找到解决方案。
