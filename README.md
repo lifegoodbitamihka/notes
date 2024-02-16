@@ -353,3 +353,6 @@ Next, use tools and resources to help manage your workflow. For example, using v
 Second, always plan beforehand. When starting a new project, create a detailed plan that outlines the steps you need to take to complete it.This plan should include deadlines for each task, as well as any resources or tools you may need.By planning ahead and staying organized,you can avoid getting lost in the code or spending unnecessary time on tasks. 
  	
 Lastly, stay organised inyour code. Use version control systems like Git to track your changes and collaborate with others. Organize your codebase into logical, well-documented folders and files. And, most importantly, write clean, concise,and modular code that is easy to maintain and update. Following these best practices will not only make your life as a programmer easier, but it will also help to create more reliable and efficient software.
+
+# 2024-02-16
+- "Keep it simple, stupid!"
