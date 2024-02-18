@@ -359,3 +359,11 @@ Lastly, stay organised inyour code. Use version control systems like Git to trac
 
 # 2024-02-17
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' - Leonardo da Vinci. In coding, always strive to write clean, readable, and maintainable code. Avoid unnecessary complexity; it breeds bugs and hinders progress. Remember that what you build today may be read, understood, and modified by others tomorrow or even years later. So, practice clarity and economy in your expressions, favoring well-structured simplicity over elaborate intricacy."
+
+# 2024-02-18
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By determining which tasks are most important and which can wait, you can make sure that you focus on the right things. Use a task management tool, such as Trello or Asana, to keep track of your priorities and make adjustments as needed. 
+ -
+其次，提前计划。在开始一个项目之前，先了解项目的整体结构和需求。这将帮助你在编写代码时避免很多麻烦。为你的项目制定一个详细的计划，包括设计、编码、测试和部署等各个阶段。确保你为每个阶段分配足够的时间，以便在遇到问题时能够及时解决。
+- 保持组织。一个整洁、有组织的代码库对于提高效率至关重要。使用版本控制系统，如Git，来跟踪你的代码更改。遵循一致的编码风格和命名约定，以确保你的团队或你的项目能够更容易地理解和维护你的编码。定期审查和重构你的 codebase，以消除重复代码和提高可读性。
