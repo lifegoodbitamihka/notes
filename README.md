@@ -367,3 +367,9 @@ First, prioritize your tasks. When you're working on a project, there will alway
  -
 其次，提前计划。在开始一个项目之前，先了解项目的整体结构和需求。这将帮助你在编写代码时避免很多麻烦。为你的项目制定一个详细的计划，包括设计、编码、测试和部署等各个阶段。确保你为每个阶段分配足够的时间，以便在遇到问题时能够及时解决。
 - 保持组织。一个整洁、有组织的代码库对于提高效率至关重要。使用版本控制系统，如Git，来跟踪你的代码更改。遵循一致的编码风格和命名约定，以确保你的团队或你的项目能够更容易地理解和维护你的编码。定期审查和重构你的 codebase，以消除重复代码和提高可读性。
+
+# 2024-02-19
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Next, planning ahead is crucial for success. Anticipate potential issues and challenges that may arise, so you're prepared to tackle them. Write down your ideas and plans, then review them regularly to ensure you stay on track. Planning ahead will also help to reduce stress and anxiety, as you will know what to expect and how to handle it. 
+ - 来自n.p.m.
