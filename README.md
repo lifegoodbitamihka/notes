@@ -428,3 +428,9 @@ This quote emphasizes the importance of not over-engineering or optimizing your 
 
 # 2024-03-02
 - "Keep it simple, stupid!"
+
+# 2024-03-03
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, this translates to writing clean, readable, and maintainable code. It’s about solving problems with minimal complexity, avoiding over-engineering, and embracing modularity. Remember that you write code not only for machines but also for humans to read, understand, and modify. Optimize for clarity and evolvability, as it leads to fewer bugs, easier debugging, and more efficient collaboration." 
+
+Another one, specific to modern software development practices:
+"Code is meant to be tested. 'If it's not tested, it's broken.' – Steve McConnell. Write automated tests alongside your code to validate its correctness and ensure continued functionality as your software evolves. Embracing test-driven development can lead to higher quality products and a more confident development process."
